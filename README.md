@@ -9,6 +9,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
+<br/>
+
+<p align="center">
+  <img src="docs/images/app_screenshot.png" alt="PyAutoGUI Macro Studio Interface" width="900" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+</p>
+
 <p align="center">
   <b>Grave qualquer rotina repetitiva no seu computador com 1 clique e reproduza em lote na velocidade que desejar.</b>
 </p>
@@ -47,32 +53,6 @@ O app registra tudo, gera o código Python limpo em tempo real e permite executa
   - Exporte scripts Python independentes prontos para rodar via terminal ou em servidores sem interface gráfica.
 - 🪟 **Modo Silencioso no Windows**:
   - Inicia sem abrir a janela preta de terminal (`main.pyw` / inicializador silencioso).
-
----
-
-## 📸 Demonstração da Interface
-
-```text
-+-----------------------------------------------------------------------------------+
-| ⚡ Macro Studio  [ ● Pronto para capturar ]                     [ 12 Ações ]      |
-+------------------------------------+----------------------------------------------+
-| [ CONTROLES ]                      |  [ 📋 Ações Capturadas ]  [ 🐍 Código Python ]|
-|                                    |                                              |
-| ⏺ Iniciar Captura                  |  #  | TEMPO  | TIPO        | DETALHES        |
-| [x] Capturar arraste/movimento     |  1  | +0.45s | mouse_click | Botão Direito    |
-|                                    |  2  | +1.20s | mouse_scroll| Scroll -120      |
-| [ EXECUÇÃO EM LOTE ]               |  3  | +0.80s | key_press   | Tecla 'enter'    |
-| Repetições: [ 50  ]                |                                              |
-| Velocidade: [ 2.0x ]               |                                              |
-| Pausa entre ciclos: [ 1.0s ]       |                                              |
-|                                    |                                              |
-| ▶ Executar Macro                   |                                              |
-| ⏹ Interromper (ESC)                |                                              |
-|                                    |                                              |
-| 💾 Salvar (.json)  📂 Carregar     |                                              |
-| 📄 Exportar Script .py             |                                              |
-+------------------------------------+----------------------------------------------+
-```
 
 ---
 
